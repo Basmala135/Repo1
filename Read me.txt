@@ -1,0 +1,1 @@
+this is the main branch of the repo the other branches contain the chess task, PCB task as well as a hand detector task I have been working on (I am adding it just for practicing !)
