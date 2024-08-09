@@ -1,0 +1,4 @@
+Do you need flyback diodes for the motors?
+Yes, flyback diodes are necessary to protect the MOSFETs from the inductive kickback generated when the motor switches off. Without them, the MOSFETs could be damaged by the high voltage spikes.
+How would you connect flyback diodes to a bi-directional load like a motor?
+as shown in the schematic 
